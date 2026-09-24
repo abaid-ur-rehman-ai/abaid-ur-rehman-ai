@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Abaid Ur Rehman 👋
 
-<!--
-**abaid-ur-rehman-ai/abaid-ur-rehman-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **Machine Learning & AI Engineer** passionate about building end-to-end ML solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Currently learning AI Engineering (ML → Deep Learning → LLMs)
+- Building and deploying real-world projects
+- Open to Internships and Junior ML/AI roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python ,SQL
+- **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch
+- **Deployment:** FastAPI, Streamlit, Docker
+- **Tools:** Git, GitHub, VS Code
+
+## 📂 Featured Projects
+
+### 1. Customer Churn Prediction API
+- End-to-end ML project with FastAPI deployment
+  
+
+### 2. Dogs vs Cats Classification
+- Transfer Learning with MobileNet
+- Deployed with FastAPI
+
+
+### 3. Fashion MNIST with PyTorch + Optuna
+- ANN with Hyperparameter Tuning
+
+
+## 📈 Currently Learning
+- LLMs & RAG
+- LangChain
+- Advanced Deployment
+
+## 🔗 Connect with Me
+- LinkedIn: (add your link)
+- Email: (add your email)
+
+
