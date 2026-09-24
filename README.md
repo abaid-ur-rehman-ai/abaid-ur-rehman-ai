@@ -27,6 +27,8 @@ Aspiring **Machine Learning & AI Engineer** passionate about building end-to-end
 ### 3. Fashion MNIST with PyTorch + Optuna
 - ANN with Hyperparameter Tuning
 
+### 3. Titanic Survival Prediction – Multi Model Comparison
+  
 
 ## 📈 Currently Learning
 - LLMs & RAG
