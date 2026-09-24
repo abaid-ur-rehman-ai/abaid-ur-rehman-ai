@@ -2,7 +2,7 @@
 
 Aspiring **Machine Learning & AI Engineer** passionate about building end-to-end ML solutions.
 
-## 🚀 About Me
+## About Me
 - Currently learning AI Engineering (ML → Deep Learning → LLMs)
 - Building and deploying real-world projects
 - Open to Internships and Junior ML/AI roles
